@@ -1,1 +1,1 @@
-# svc-manga-notificaiton
+# svc-manga-notification
